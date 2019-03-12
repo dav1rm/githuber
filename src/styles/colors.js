@@ -13,6 +13,6 @@ export default {
   danger: '#E37A7A',
 
   transparent: 'transparent',
-  darkTransparent: 'rgb(0, 0, 0, 0.6)',
-  whiteTransparent: 'rgb(255, 255, 255, 0.3)',
+  darkTransparent: 'rgba(0, 0, 0, 0.6)',
+  whiteTransparent: 'rgba(255, 255, 255, 0.3)',
 };
